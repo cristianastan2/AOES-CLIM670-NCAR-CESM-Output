@@ -1,9 +1,9 @@
 ---
-title: "CESM Output Overview"
+title: "History Files"
 teaching: 0
 exercises: 0 
 questions:
-- "What kinds of output do I get after the model runs?"
+- "How can I look at my model output?"
 objectives:
 keypoints:
 ---

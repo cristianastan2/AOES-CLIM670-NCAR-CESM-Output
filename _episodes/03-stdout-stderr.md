@@ -1,9 +1,9 @@
 ---
-title: "CESM Output Overview"
+title: "Standard error and standard out"
 teaching: 0
 exercises: 0 
 questions:
-- "What kinds of output do I get after the model runs?"
+- "What do the stderr and stdout files tell me?"
 objectives:
 keypoints:
 ---

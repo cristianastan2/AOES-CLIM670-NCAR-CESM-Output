@@ -1,9 +1,9 @@
 ---
-title: "CESM Output Overview"
+title: "Log files"
 teaching: 0
 exercises: 0 
 questions:
-- "What kinds of output do I get after the model runs?"
+- "What do log files tell me?"
 objectives:
 keypoints:
 ---

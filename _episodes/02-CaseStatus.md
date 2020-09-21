@@ -1,9 +1,9 @@
 ---
-title: "CESM Output Overview"
+title: "CaseStatus"
 teaching: 0
 exercises: 0 
 questions:
-- "What kinds of output do I get after the model runs?"
+- "What does the CaseStatus file tell me about my model experiment?"
 objectives:
 keypoints:
 ---
