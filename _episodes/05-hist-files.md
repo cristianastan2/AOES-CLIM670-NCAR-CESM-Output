@@ -73,12 +73,16 @@ There are no history files for the atmosphere.  Why?  We ran our first experimen
 > ## Understanding history files
 > 
 > netcdf format
+>
 > named based on time frequency of data
+>
 > `h0/h` contain monthly averaged output
+>
 > `h1,h2` contain other time frequencies (e.g. daily)
+>
 > contain all variables for a given model component for a given time frequency and produced as the experiment runs
 >
 > Eventually, we want all timesteps for a specific variable from our model run.  These files are called `timeseries` files and they are 
-> produced created using a postprocessing step after the model run is completed. We will learn how to create these in a future lesson.
+> produced using a postprocessing step after the model run is completed. We will learn how to create these in a future lesson.
 >
 {: .callout}
