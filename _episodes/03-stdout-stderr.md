@@ -10,7 +10,9 @@ keypoints:
 
 ### Standard error and standard out files
 
-In your `CASEROOT` directory, your model produced files like `b.day1.0.run.o*` and `b.day1.0.st_archive.o*`.  These files produce output related to our submit script.  If the model and/or archiving did not run to completion, you will also have a `b.day1.0.run.e*` and/or `b.day1.0.st_archive.e*` file.  The ones with `*.o* are called standard out (stdout) and the ones with `*.e* are called standard error (stderr).  The end of the file usually contains the most useful information, so you can use the Unix `tail` command to look at the end of the file:
+In your `CASEROOT` directory, your model produced files like `b.day1.0.run.o*` and `b.day1.0.st_archive.o*`.  These files produce output related to our submit script.  If the model and/or archiving did not run to completion, you will also have a `b.day1.0.run.e*` and/or `b.day1.0.st_archive.e*` file.  The ones with `*.o*' are called standard out (stdout) and the ones with `*.e*` are called standard error (stderr).  
+
+The end of the file usually contains the most useful information, so you can use the Unix `tail` command to look at the end of the file:
 
 ~~~
 $ tail b.day1.0.run.o4141153
