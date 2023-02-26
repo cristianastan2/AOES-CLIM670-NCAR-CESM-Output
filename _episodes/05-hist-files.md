@@ -46,8 +46,9 @@ $ ls
 
 ~~~
 ocn/hist> ls
-b.day1.0.pop.dd.0001-01-01-03600  b.day1.0.pop.dt.0001-01-01-03600  b.day1.0.pop.h.ecosys.nday1.0001-01-01.nc  b.day1.0.pop.h.once.nc
-b.day1.0.pop.do.0001-01-01-03600  b.day1.0.pop.dv.0001-01-01-03600  b.day1.0.pop.h.nday1.0001-01-01.nc         b.day1.0.pop.hv.nc
+b.day1.0.pop.dd.0001-01-01-03600  b.day1.0.pop.dv.0001-01-01-03600           b.day1.0.pop.h.once.nc
+b.day1.0.pop.do.0001-01-01-03600  b.day1.0.pop.h.ecosys.nday1.0001-01-01.nc  b.day1.0.pop.hv.nc
+b.day1.0.pop.dt.0001-01-01-03600  b.day1.0.pop.h.nday1.0001-01-01.nc
 ~~~
 {: .output}
 
