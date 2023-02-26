@@ -17,14 +17,14 @@ $ ./xmlquery DOUT_S_ROOT
 {: .language-bash}
 
 ~~~
-	DOUT_S_ROOT: /glade/scratch/kpegion/archive/b.day1.0
+	DOUT_S_ROOT: /glade/scratch/cstan/archive/b.day1.0
 ~~~
 {: .output}
 
 Let's go to this directory and see what is there:
 
 ~~~
-$ cd /glade/scratch/kpegion/archive/b.day1.0
+$ cd /glade/scratch/cstan/archive/b.day1.0
 $ ls
 ~~~
 {: .language-bash}
@@ -46,9 +46,8 @@ $ ls
 
 ~~~
 ocn/hist> ls
-b.day1.0.pop.dd.0001-01-01-03600  b.day1.0.pop.dv.0001-01-01-03600           b.day1.0.pop.h.once.nc
-b.day1.0.pop.do.0001-01-01-03600  b.day1.0.pop.h.ecosys.nday1.0001-01-01.nc  b.day1.0.pop.hv.nc
-b.day1.0.pop.dt.0001-01-01-03600  b.day1.0.pop.h.nday1.0001-01-01.nc
+b.day1.0.pop.dd.0001-01-01-03600  b.day1.0.pop.dt.0001-01-01-03600  b.day1.0.pop.h.ecosys.nday1.0001-01-01.nc  b.day1.0.pop.h.once.nc
+b.day1.0.pop.do.0001-01-01-03600  b.day1.0.pop.dv.0001-01-01-03600  b.day1.0.pop.h.nday1.0001-01-01.nc         b.day1.0.pop.hv.nc
 ~~~
 {: .output}
 
