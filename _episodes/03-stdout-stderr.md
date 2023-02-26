@@ -24,7 +24,7 @@ $ tail b.day1.0.run.o4141153
  - Checking for required input datasets in DIN_LOC_ROOT
 -------------------------------------------------------------------------
 2020-09-15 11:21:22 MODEL EXECUTION BEGINS HERE
-run command is mpiexec_mpt -p "%g:"  -np 576  omplace -tm open64  /glade/scratch/kpegion/b.day1.0/bld/cesm.exe  >> cesm.log.$LID 2>&1
+run command is mpiexec_mpt -p "%g:"  -np 576  omplace -tm open64  /glade/scratch/cstan/b.day1.0/bld/cesm.exe  >> cesm.log.$LID 2>&1
 2020-09-15 11:23:58 MODEL EXECUTION HAS FINISHED
 check for resubmit
 dout_s True
