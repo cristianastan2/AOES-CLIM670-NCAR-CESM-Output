@@ -20,15 +20,15 @@ $ tail b.day1.0.run.o4141153
 {: .language-bash}
 
 ~~~
- - Case input data directory (DIN_LOC_ROOT) is /glade/p/cesmdata/cseg/inputdata
+ - Case input data directory (DIN_LOC_ROOT) is /glade/p/cesmdata/cseg/inputdata 
  - Checking for required input datasets in DIN_LOC_ROOT
 -------------------------------------------------------------------------
-2020-09-15 11:21:22 MODEL EXECUTION BEGINS HERE
-run command is mpiexec_mpt -p "%g:"  -np 576  omplace -tm open64  /glade/scratch/cstan/b.day1.0/bld/cesm.exe  >> cesm.log.$LID 2>&1
-2020-09-15 11:23:58 MODEL EXECUTION HAS FINISHED
+2023-02-25 19:05:37 MODEL EXECUTION BEGINS HERE
+run command is mpiexec_mpt -p "%g:"  -np 576  omplace -tm open64  /glade/scratch/cstan/b.day1.0/bld/cesm.exe  >> cesm.log.$LID 2>&1  
+2023-02-25 19:08:09 MODEL EXECUTION HAS FINISHED
 check for resubmit
-dout_s True
-mach cheyenne
+dout_s True 
+mach cheyenne 
 resubmit_num 0
 ~~~
 {: .output}
