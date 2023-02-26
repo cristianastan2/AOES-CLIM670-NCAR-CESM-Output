@@ -20,21 +20,25 @@ $ cat CaseStatus
 
 ~~~
  ---------------------------------------------------
-2020-09-15 11:00:30: case.submit starting
+2023-02-20 10:25:32: case.submit starting 
  ---------------------------------------------------
-2020-09-15 11:00:38: case.submit success case.run:4141153.chadmin1.ib0.cheyenne.ucar.edu, case.st_archive:4141154.chadmin1.ib0.cheyenne.ucar.edu
+2023-02-20 10:25:40: case.submit success case.run:8671655.chadmin1.ib0.cheyenne.ucar.edu, case.st_archive:8671656.chadmin1.ib0.cheyenne.ucar.edu
  ---------------------------------------------------
-2020-09-15 11:21:16: case.run starting
+2023-02-25 19:05:16: case.submit starting 
  ---------------------------------------------------
-2020-09-15 11:21:22: model execution starting
+2023-02-25 19:05:25: case.submit success case.run:8732081.chadmin1.ib0.cheyenne.ucar.edu, case.st_archive:8732082.chadmin1.ib0.cheyenne.ucar.edu
  ---------------------------------------------------
-2020-09-15 11:23:58: model execution success
+2023-02-25 19:05:29: case.run starting 
  ---------------------------------------------------
-2020-09-15 11:23:58: case.run success
+2023-02-25 19:05:37: model execution starting 
  ---------------------------------------------------
-2020-09-15 11:24:10: st_archive starting
+2023-02-25 19:08:09: model execution success 
  ---------------------------------------------------
-2020-09-15 11:24:18: st_archive success
+2023-02-25 19:08:09: case.run success 
+ ---------------------------------------------------
+2023-02-25 19:08:16: st_archive starting 
+ ---------------------------------------------------
+2023-02-25 19:08:24: st_archive success 
  ---------------------------------------------------
 ~~~
 {: .output}
