@@ -15,18 +15,18 @@ Let's take a look at a log file:
 
 ~~~
 $ ./xmlquery DOUT_S_ROOT
-$ cd /glade/scratch/kpegion/archive/b.day1.0
+$ cd /glade/derecho/scratch/cstan/archive/b.day1.0
 $ ls
 $ cd logs
-$ gunzip cesm.log.8732081.chadmin1.ib0.cheyenne.ucar.edu.230225-190529.gz
-$ more cesm.log.8732081.chadmin1.ib0.cheyenne.ucar.edu.230225-190529
-$ tail cesm.log.8732081.chadmin1.ib0.cheyenne.ucar.edu.230225-190529
+$ gunzip cesm.log.7534849.desched1.250120-172344.gz
+$ more cesm.log.7534849.desched1.250120-172344.gz
+$ tail cesm.log.7534849.desched1.250120-172344.gz
 ~~~
 {: .language-bash}
 
 Log files are very long and contain lots of information which may look like errors, but are usually just diagnostic information unless your run fails and there is a clear error. Useful error information is typically located at the end of the file
 
 ~~~
-$ tail cesm.log.8732081.chadmin1.ib0.cheyenne.ucar.edu.230225-190529
+$ tail cesm.log.7534849.desched1.250120-172344.gz
 ~~~
 {: .language-bash}
