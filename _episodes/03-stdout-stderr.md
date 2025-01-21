@@ -15,20 +15,20 @@ In your `CASEROOT` directory, your model produced files like `b.day1.0.run.o*` a
 The end of the file usually contains the most useful information, so you can use the Unix `tail` command to look at the end of the file:
 
 ~~~
-$ tail b.day1.0.run.o4141153
+$ tail b.day1.0.run.o7534849
 ~~~
 {: .language-bash}
 
 ~~~
- - Case input data directory (DIN_LOC_ROOT) is /glade/p/cesmdata/cseg/inputdata 
+ - Case input data directory (DIN_LOC_ROOT) is /glade/campaign/cesm/cesmdata/inputdata 
  - Checking for required input datasets in DIN_LOC_ROOT
 -------------------------------------------------------------------------
-2023-02-25 19:05:37 MODEL EXECUTION BEGINS HERE
-run command is mpiexec_mpt -p "%g:"  -np 576  omplace -tm open64  /glade/scratch/cstan/b.day1.0/bld/cesm.exe  >> cesm.log.$LID 2>&1  
-2023-02-25 19:08:09 MODEL EXECUTION HAS FINISHED
+2025-01-20 17:23:52 MODEL EXECUTION BEGINS HERE
+run command is mpiexec  --label  --line-buffer  -n 768 /glade/derecho/scratch/cstan/b.day1.0/bld/cesm.exe  >> cesm.log.$LID 2>&1  
+2025-01-20 17:26:37 MODEL EXECUTION HAS FINISHED
 check for resubmit
 dout_s True 
-mach cheyenne 
+mach derecho 
 resubmit_num 0
 ~~~
 {: .output}
