@@ -19,26 +19,23 @@ $ cat CaseStatus
 {: .language-bash}
 
 ~~~
+ 2025-01-17 17:31:25: case.build success 
  ---------------------------------------------------
-2023-02-20 10:25:32: case.submit starting 
+2025-01-20 17:23:14: case.submit starting 
  ---------------------------------------------------
-2023-02-20 10:25:40: case.submit success case.run:8671655.chadmin1.ib0.cheyenne.ucar.edu, case.st_archive:8671656.chadmin1.ib0.cheyenne.ucar.edu
+2025-01-20 17:23:28: case.submit success case.run:7534849.desched1, case.st_archive:7534850.desched1
  ---------------------------------------------------
-2023-02-25 19:05:16: case.submit starting 
+2025-01-20 17:23:44: case.run starting 
  ---------------------------------------------------
-2023-02-25 19:05:25: case.submit success case.run:8732081.chadmin1.ib0.cheyenne.ucar.edu, case.st_archive:8732082.chadmin1.ib0.cheyenne.ucar.edu
+2025-01-20 17:23:52: model execution starting 
  ---------------------------------------------------
-2023-02-25 19:05:29: case.run starting 
+2025-01-20 17:26:37: model execution success 
  ---------------------------------------------------
-2023-02-25 19:05:37: model execution starting 
+2025-01-20 17:26:37: case.run success 
  ---------------------------------------------------
-2023-02-25 19:08:09: model execution success 
+2025-01-20 17:26:52: st_archive starting 
  ---------------------------------------------------
-2023-02-25 19:08:09: case.run success 
- ---------------------------------------------------
-2023-02-25 19:08:16: st_archive starting 
- ---------------------------------------------------
-2023-02-25 19:08:24: st_archive success 
+2025-01-20 17:27:17: st_archive success 
  ---------------------------------------------------
 ~~~
 {: .output}
