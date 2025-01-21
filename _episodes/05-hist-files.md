@@ -17,14 +17,14 @@ $ ./xmlquery DOUT_S_ROOT
 {: .language-bash}
 
 ~~~
-	DOUT_S_ROOT: /glade/scratch/cstan/archive/b.day1.0
+	DOUT_S_ROOT: /glade/derecho/scratch/cstan/archive/b.day1.0
 ~~~
 {: .output}
 
 Let's go to this directory and see what is there:
 
 ~~~
-$ cd /glade/scratch/cstan/archive/b.day1.0
+$ cd /glade/derecho/scratch/cstan/archive/b.day1.0
 $ ls
 ~~~
 {: .language-bash}
