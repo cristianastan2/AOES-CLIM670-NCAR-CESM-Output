@@ -1,5 +1,5 @@
 ---
-title: "Standard error and standard out"
+title: "Standard error and standard output"
 teaching: 0
 exercises: 0 
 questions:
