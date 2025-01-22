@@ -5,7 +5,6 @@ exercises: 0
 questions:
 - "What do log files tell me?"
 objectives:
-- "Learn how to find relevant information regarding the status of an experiment using the log files"
 keypoints:
 ---
 
@@ -28,6 +27,6 @@ $ tail cesm.log.7534849.desched1.250120-172344.gz
 Log files are very long and contain lots of information which may look like errors, but are usually just diagnostic information unless your run fails and there is a clear error. Useful error information is typically located at the end of the file
 
 ~~~
-$ tail cesm.log.7534849.desched1.250120-172344.gz
+$ tail cesm.log.7534849.desched1.250120-172344
 ~~~
 {: .language-bash}
