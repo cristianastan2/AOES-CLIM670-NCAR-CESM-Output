@@ -19,8 +19,8 @@ $ cd /glade/derecho/scratch/cstan/archive/b.day1.0
 $ ls
 $ cd logs
 $ gunzip cesm.log.7534849.desched1.250120-172344.gz
-$ more cesm.log.7534849.desched1.250120-172344.gz
-$ tail cesm.log.7534849.desched1.250120-172344.gz
+$ more cesm.log.7534849.desched1.250120-172344
+
 ~~~
 {: .language-bash}
 
