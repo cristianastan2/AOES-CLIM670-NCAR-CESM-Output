@@ -5,6 +5,7 @@ exercises: 0
 questions:
 - "What does the CaseStatus file tell me about my model experiment?"
 objectives:
+- "Learn how to check the status of an experiment"
 keypoints:
 ---
 
