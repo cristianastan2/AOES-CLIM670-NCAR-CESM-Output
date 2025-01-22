@@ -21,7 +21,7 @@ $ ./xmlquery DOUT_S_ROOT
 ~~~
 {: .output}
 
-Let's go to this directory and see what is there:
+Let's go to the `DOUT_S_ROOT` directory and see what is there:
 
 ~~~
 $ cd /glade/derecho/scratch/cstan/archive/b.day1.0
