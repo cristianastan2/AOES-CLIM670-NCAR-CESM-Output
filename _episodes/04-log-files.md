@@ -5,6 +5,7 @@ exercises: 0
 questions:
 - "What do log files tell me?"
 objectives:
+- "Learn how to find relevant information regarding the status of an experiment using the log files"
 keypoints:
 ---
 
